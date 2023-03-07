@@ -23,12 +23,12 @@ This is an application for a calculator made in Python using the tkinter module.
 - Clone the repository
 
 ```
-git clone https://github.com/sukanyaghosh06/calculator.git
+git clone https://github.com/prathameshparit/Calculator.git
 ```
 
 Run the Python file
 ```
-python calculator.py
+python calculatortkinter.py
 ```
 
 ## Usage
