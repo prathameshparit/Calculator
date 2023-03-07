@@ -40,3 +40,4 @@ python calculatortkinter.py
 - To calculate the square root of the number, select the square root (√) button.
 - To clear the display, select the clear (C) button.
 - Keyboard support is available - enter the number or operator directly from the keyboard.
+   
